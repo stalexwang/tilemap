@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Client/Map.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Client/App.cs" Line="73" Column="43" />
+      <File FileName="Assets/Scripts/Client/AppConfig.cs" Line="38" Column="44" />
+      <File FileName="Assets/Scripts/Client/AppConfigGUI.cs" Line="69" Column="24" />
+      <File FileName="Assets/Scripts/Client/EagerLoadingStrategy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Client/IMap.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Client/IObserver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Client/ITile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Client/ITileFactory.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/Client/ITileLoadingStrategy.cs" Line="10" Column="64" />
+      <File FileName="Assets/Scripts/Client/LazyLoadingStrategy.cs" Line="14" Column="23" />
+      <File FileName="Assets/Scripts/Client/LimitedMap.cs" Line="9" Column="31" />
+      <File FileName="Assets/Scripts/Client/Map.cs" Line="77" Column="40" />
+      <File FileName="Assets/Scripts/Client/MapUtil.cs" Line="9" Column="35" />
+      <File FileName="Assets/Scripts/Client/ProxyTile.cs" Line="8" Column="22" />
+      <File FileName="Assets/Scripts/Client/ProxyTileFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Client/Tile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Client/TileStorage.cs" Line="24" Column="5" />
+      <File FileName="Assets/Scripts/Client/TileView.cs" Line="7" Column="32" />
+      <File FileName="Assets/Scripts/Client/TimedProxyTile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Client/TimedProxyTileFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Client/Vec2.cs" Line="2" Column="55" />
+      <File FileName="Assets/Scripts/Client/VisibleArea.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Server/ITileResult.cs" Line="3" Column="48" />
+      <File FileName="Assets/Scripts/Server/ITileServer.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Server/TileResult.cs" Line="28" Column="2" />
+      <File FileName="Assets/Scripts/Server/TileServer.cs" Line="66" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
